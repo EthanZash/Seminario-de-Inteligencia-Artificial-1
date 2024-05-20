@@ -1,5 +1,5 @@
 ## Algoritmo Genetico
-Es una tecnica de busqueda heuristica utilizada en IAs y optimizaion, estas se basa en la idea de mejorara una solucion iterativamente, moviendose a estados vecinos que son mejores que el estado actual.
+Los algoritmos genéticos son una clase de algoritmos de optimización inspirados en los principios de la evolución natural y la genética. Simulan el proceso de selección natural para resolver problemas de optimización, iterando sobre una población de posibles soluciones y aplicando operadores genéticos como selección, cruce (recombinación) y mutación. 
 
 ## Algoritmo Genetico
 
